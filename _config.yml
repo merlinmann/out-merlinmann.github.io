@@ -1,6 +1,6 @@
 ---
 title: Merlin
-timezone: UTC
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
@@ -8,4 +8,4 @@ collections:
   uploads:
     title: Uploads
     output: true
-theme: jekyll-theme-minimal
+permalink: pretty
