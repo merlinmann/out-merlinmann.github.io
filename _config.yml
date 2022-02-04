@@ -9,4 +9,4 @@ collections:
     title: Uploads
     output: true
 permalink: pretty
-theme: jekyll-theme-modernist
+theme: jekyll-theme-tactile

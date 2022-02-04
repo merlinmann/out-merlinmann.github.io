@@ -1,6 +1,6 @@
 ---
 title: Daddy's Home
-permalink: "/daddy/"
+permalink: "/foo/"
 layout: page
 theme: jekyll-theme-tactile
 ---
