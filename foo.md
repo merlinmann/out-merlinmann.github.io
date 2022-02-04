@@ -5,7 +5,7 @@ layout: page
 theme: jekyll-theme-tactile
 ---
 
-foo.md
+# foo.md
 
 eep
 
