@@ -1,7 +1,7 @@
 ---
+title: Daddy's Home
+permalink: "/daddy/"
 layout: page
-title: "Daddy's Home"
-permalink: /daddy/
 ---
 
 foo.md
