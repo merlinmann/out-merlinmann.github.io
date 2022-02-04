@@ -1,12 +1,6 @@
 ---
 title: Merlin Mann
 timezone: America/Los_Angeles
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-permalink: pretty
+description: Bookmark this to keep an eye on my project updates!permalink: pretty
 theme: jekyll-theme-tactile
+---
