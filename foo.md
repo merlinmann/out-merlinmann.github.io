@@ -2,6 +2,7 @@
 title: Daddy's Home
 permalink: "/daddy/"
 layout: page
+theme: jekyll-theme-tactile
 ---
 
 foo.md
